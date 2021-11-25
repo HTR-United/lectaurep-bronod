@@ -26,7 +26,7 @@ jobs:
       uses: Schneegans/dynamic-badges-action@v1.1.0
       with:
         auth: ${{ secrets.GIST_SECRET }}
-        gistID: "4347188370a0daf230c7acfbe6b17449"
+        gistID: "3e874d10f960e52ab611749c81a64d76"
         filename: "bronod_chars.json"
         label: "Transcribed Characters"
         message: ${{ env.HTRUNITED_CHARS }}
@@ -36,7 +36,7 @@ jobs:
       uses: Schneegans/dynamic-badges-action@v1.1.0
       with:
         auth: ${{ secrets.GIST_SECRET }}
-        gistID: "4347188370a0daf230c7acfbe6b17449"
+        gistID: "3e874d10f960e52ab611749c81a64d76"
         filename: "bronod_lines.json"
         label: "Transcribed Lines"
         message: ${{ env.HTRUNITED_LINES }}
@@ -46,7 +46,7 @@ jobs:
       uses: Schneegans/dynamic-badges-action@v1.1.0
       with:
         auth: ${{ secrets.GIST_SECRET }}
-        gistID: "4347188370a0daf230c7acfbe6b17449"
+        gistID: "3e874d10f960e52ab611749c81a64d76"
         filename: "bronod_regions.json"
         label: "Number of regions"
         message: ${{ env.HTRUNITED_REGNS }}
