@@ -1,4 +1,4 @@
-<img src="static/img/logo-lectaurep.png" width=150 align=right>
+<img src="static/img/logo_lectaurep.png" width=150 align=right>
 
 # lectaurep-bronod
 
