@@ -3,6 +3,6 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Limon-Bonnet
     given-names: Marie-Françoise
-title: "Lectaurep-bronod, ground truth for Maitre Bronod's documents"
+title: "Lectaurep-Bronod, ground truth for Maitre Bronod's documents (French XVIIIth century)"
 version: 1.0
 date-released: 2021-11-25
