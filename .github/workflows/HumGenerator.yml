@@ -22,7 +22,7 @@ jobs:
       run: |
         humGenerator --group **/*.xml --github-envs
         cat envs.txt >> $GITHUB_ENV
-        - name: Create Awesome Badge
+    - name: Create Awesome Badge
       uses: Schneegans/dynamic-badges-action@v1.1.0
       with:
         auth: ${{ secrets.GIST_SECRET }}
