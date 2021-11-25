@@ -14,7 +14,7 @@ badges HUMGenerator
 
 ## Contexte de production 
 
-Le projet LECTAUREP (LECTure Automatique de REPertoires), qui a débuté en 2018, est une initiative conjointe du Minutier central des notaires de Paris des Archives Nationales, de l’équipe ALMAnaCH (Automatic Language Modeling and Analysis &amp; Computational Humanities) à Inria et de l’EPHE (Ecole Pratique des Hautes Etudes), en partenariat avec le Ministère de la Culture.
+Le projet [LECTAUREP](https://lectaurep.hypotheses.org/) (LECTure Automatique de REPertoires), qui a débuté en 2018, est une initiative conjointe du Minutier central des notaires de Paris des Archives Nationales, de l’équipe ALMAnaCH (Automatic Language Modeling and Analysis &amp; Computational Humanities) à Inria et de l’EPHE (Ecole Pratique des Hautes Etudes), en partenariat avec le Ministère de la Culture.
 
 Le projet vise à repenser l’utilisation actuellement faite des registres des actes notariés, l’une des sources historiques les plus consultées aux Archives nationales, par les chercheurs et les utilisateurs des fonds d’archives notariales. Pour ce faire, le projet a instaurer un workflow de traitement de ces manuscrits à l’aide de la reconnaissance automatique des documents manuscrits (HTR) et d'extraction d’information (NER) en adoptant notamment l'application eScriptorium pour produire la vérité de terrain, entraîner des modèles de reconnaissance et corriger les transcriptions résultants.
 
@@ -46,6 +46,13 @@ Le corpus `lectaurep-bronod` rassemble 100 pages issues du répertoire de Maîtr
 <!--- les s longs ont été transcrits par des `s` simples.-->
 
 
+---
+
+<!-- logo institutionnels -->
+
+| Inria                               | Archives nationales                                             |
+| :---------------------------------: | :-------------------------------------------------------------: |
+| ![inria](static/img/logo_inria.png) | ![archives nationales](static/img/logo_archives-natioanles.png) |
 
 
 
