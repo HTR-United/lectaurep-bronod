@@ -52,7 +52,7 @@ Le corpus `lectaurep-bronod` rassemble 100 pages issues du répertoire de Maîtr
 
 | Inria                               | Archives nationales                                             |
 | :---------------------------------: | :-------------------------------------------------------------: |
-| ![inria](static/img/logo_inria.png) | ![archives nationales](static/img/logo_archives-natioanles.png) |
+| ![inria](static/img/logo_inria.png) | ![archives nationales](static/img/logo_archives-nationales.png) |
 
 
 
