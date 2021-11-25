@@ -1,0 +1,44 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: lectaurep-bronod
+url: 'https://github.com/HTR-United/lectaurep-bronod'
+project-name: >
+    LECTAUREP'
+project-website: 'https://lectaurep.hypotheses.org/'
+authors:
+    - name: 'Limon-Bonnet'
+      surname: 'Marie-Françoise'
+      roles:
+      - 'transcriber'
+      - 'quality-control'
+    - name: 'Chagué'
+      surname: 'Alix'
+      roles:
+      - 'support'
+description: >
+  Lectaurep-Bronod, ground truth for Maitre Bronod’s documents (French XVIIIth century) 
+language:
+  - fra
+script: 
+  - Latn
+script-type: 'only-manuscript'
+time: 
+  notBefore: "1742"
+  notAfter: "1745"
+hands: 
+  count: '1'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Page-XML'
+volume:
+  - metric: 'pages'
+    count: 100
+  - metric: 'lines'
+    count: 3708
+  - metric: 'regions'
+    count: 100
+  - metric: 'characters'
+    count: 182895
+citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-bronod/master/CITATION.cff?token=AH6GHJ34UV3JX2AP26UDYNDBT6R2U'
+transcription-guidelines: >
+    Transcription fidèle aux manuscrits : la casse et les abréviations sont respectées. Les portions de texte suscrites sont précédées d'un symbole ^. Pas de traitement particulier des éventuels s longs.'
