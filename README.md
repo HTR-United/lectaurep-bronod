@@ -2,7 +2,9 @@
 
 # lectaurep-bronod
 
-![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey) 
+![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)  [![DOI](https://sandbox.zenodo.org/badge/431864099.svg)](https://sandbox.zenodo.org/badge/latestdoi/431864099)
+
+
 
 <!--
 badges HUMGenerator -->
