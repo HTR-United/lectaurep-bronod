@@ -43,6 +43,15 @@ Le corpus `lectaurep-bronod` rassemble 100 pages issues du répertoire de Maîtr
 <!--- les s longs ont été transcrits par des `s` simples.-->
 
 
+## Les autres dépôts LECTAUREP
+
+➡️ [Lectaurep-repertoires](https://github.com/HTR-United/lectaurep-repertoires)
+<!--
+➡️ [Lectaurep-bronod](https://github.com/HTR-United/lectaurep-bronod) -->
+
+➡️ [Lectaurep-mariages-et-divorces](https://github.com/HTR-United/lectaurep-mariages-et-divorces)
+
+
 ---
 
 <!-- logo institutionnels -->
