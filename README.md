@@ -2,6 +2,8 @@
 
 # lectaurep-bronod
 
+![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey) 
+
 <!--
 badges HUMGenerator -->
 
