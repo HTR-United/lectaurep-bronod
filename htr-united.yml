@@ -1,21 +1,22 @@
 schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
-title: lectaurep-bronod
+title: Notaire de Paris - Bronod
 url: 'https://github.com/HTR-United/lectaurep-bronod'
 project-name: >
     LECTAUREP'
 project-website: 'https://lectaurep.hypotheses.org/'
 authors:
     - name: 'Limon-Bonnet'
-      surname: 'Marie-Françoise'
+      surname: 'Françoise'
       roles:
       - 'transcriber'
+      - 'aligner'
       - 'quality-control'
     - name: 'Chagué'
       surname: 'Alix'
       roles:
       - 'support'
 description: >
-  Lectaurep-Bronod, ground truth for Maitre Bronod’s documents (French XVIIIth century) 
+  Ground truth for Maître Bronod’s registers, notary in Paris during the 18th century.
 language:
   - fra
 script: 
@@ -32,13 +33,16 @@ license:
 format: 'Page-XML'
 volume:
   - metric: 'pages'
-    count: 100
+    count: 200
+  - metric: 'files'
+    count: 50
   - metric: 'lines'
     count: 3708
-  - metric: 'regions'
-    count: 100
   - metric: 'characters'
     count: 182895
-citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-bronod/master/CITATION.cff?token=AH6GHJ34UV3JX2AP26UDYNDBT6R2U'
+sources:
+  - reference: 'Limon-Bonnet, M. (2021). Lectaurep-Bronod, ground truth for Maitre Bronod\u0027s documents (French XVIIIth century) (Version 1.0) [Computer software]. https://doi.org/10.5072/zenodo.977735'
+    link: ''
+citation-file-link: 'https://raw.githubusercontent.com/HTR-United/lectaurep-bronod/master/CITATION.cff'
 transcription-guidelines: >
-    Transcription fidèle aux manuscrits : la casse et les abréviations sont respectées. Les portions de texte suscrites sont précédées d'un symbole ^. Pas de traitement particulier des éventuels s longs.'
+    Transcription fidèle aux manuscrits : la casse et les abréviations sont respectées. Les portions de texte suscrites sont précédées d'un symbole `^`. Pas de traitement particulier des éventuels s longs.'
