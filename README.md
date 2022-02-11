@@ -1,6 +1,6 @@
 <img src="static/img/logo_lectaurep.png" width=150 align=right>
 
-# lectaurep-bronod
+# Notaires de Paris - Bronod
 
 ![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)  [![DOI](https://sandbox.zenodo.org/badge/431864099.svg)](https://sandbox.zenodo.org/badge/latestdoi/431864099)
 
