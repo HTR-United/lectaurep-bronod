@@ -35,7 +35,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --group ./lectaurep-bronod/*.xml --github-envs --to-json updated_metrics.json
+          humGenerator --parse page --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/master'
@@ -76,5 +76,4 @@ jobs:
           pip install htrvx
       - name: Run HTRVX
         run: |
-          htrvx --verbose --group --format alto --check-empty --xsd ./lectaurep-bronod/*.xml
-
+          htrvx --verbose --group --format page --check-empty ./data/**/*.xml
