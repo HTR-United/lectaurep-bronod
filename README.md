@@ -6,12 +6,8 @@
 
 
 
-<!--
-badges HUMGenerator -->
-
-![Region Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3e874d10f960e52ab611749c81a64d76/raw/bronod_regions.json)
-![Lines Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3e874d10f960e52ab611749c81a64d76/raw/bronod_lines.json)
-![Characters Badges](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/alix-tz/3e874d10f960e52ab611749c81a64d76/raw/bronod_chars.json)
+<!-- updated by workflow -->
+![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
 
 ## Contexte de production 
 
