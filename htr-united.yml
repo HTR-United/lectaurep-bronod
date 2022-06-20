@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: Notaires de Paris - Bronod
 url: https://github.com/HTR-United/lectaurep-bronod
 project-name: 'LECTAUREP
@@ -21,7 +21,7 @@ description: "Ground truth for Ma\xEEtre Bronod\u2019s registers, notary in Pari
 language:
 - fra
 script:
-- Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '1742'
@@ -53,3 +53,4 @@ transcription-guidelines: "Transcription fid\xE8le aux manuscrits : la casse et 
   \ abr\xE9viations sont respect\xE9es. Les portions de texte suscrites sont pr\xE9\
   c\xE9d\xE9es d'un symbole `^`. Pas de traitement particulier des \xE9ventuels s\
   \ longs.'\n"
+production-software: eScriptorium + Kraken
