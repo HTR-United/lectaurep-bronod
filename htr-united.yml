@@ -35,7 +35,7 @@ license:
 format: Page-XML
 volume:
 - metric: characters
-  count: 182895
+  count: 359676
 - metric: files
   count: 100
 - metric: lines
@@ -54,3 +54,47 @@ transcription-guidelines: "Transcription fid\xE8le aux manuscrits : la casse et 
   c\xE9d\xE9es d'un symbole `^`. Pas de traitement particulier des \xE9ventuels s\
   \ longs.'\n"
 production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - t
+  - /
+  - a
+  - c
+  - '0'
+  - n
+  - r
+  - '7'
+  - m
+  - h
+  - p
+  - s
+  - o
+  - g
+  - '9'
+  - '1'
+  - E
+  - .
+  - i
+  - '-'
+  - '4'
+  - '5'
+  - f
+  - '2'
+  - d
+  - <
+  - l
+  - '{'
+  - ':'
+  - P
+  - A
+  - G
+  - '}'
+  - U
+  - x
+  - '>'
+  - b
+  - '8'
+  - '6'
+  - '3'
