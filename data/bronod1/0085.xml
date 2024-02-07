@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2024-02-07T15:33:10.233082+00:00</Created>
-        <LastChange>2024-02-07T15:33:10.233099+00:00</LastChange>
+	<Created>2024-02-07T15:55:04.601318+00:00</Created>
+        <LastChange>2024-02-07T15:55:04.601335+00:00</LastChange>
 
   </Metadata>
   <Page imageFilename="0085.jpg" imageWidth="5680" imageHeight="4180">
@@ -455,20 +455,6 @@
     </TextRegion>
     
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_c494f892" custom="structure {type:DefaultLine:Handwritten;}">
-        
-        <Baseline points="3274,4152 3264,4142"/>
-        <TextEquiv>
-          <Unicode>24 ..... delegation ..... Le Baron de Rillé à M^e d antragues duchesse de falaris.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
     
   </Page>
 </PcGts>

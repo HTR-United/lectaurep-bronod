@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2024-02-07T15:33:07.611179+00:00</Created>
-        <LastChange>2024-02-07T15:33:07.611198+00:00</LastChange>
+	<Created>2024-02-07T15:55:04.467958+00:00</Created>
+        <LastChange>2024-02-07T15:55:04.467976+00:00</LastChange>
 
   </Metadata>
   <Page imageFilename="0016.jpg" imageWidth="5680" imageHeight="4180">
@@ -13,7 +13,7 @@
       <Coords points="340,215 340,3795 2795,3795 2795,215"/>
       
       
-      <TextLine id="eSc_line_0b17c691" >
+      <TextLine id="eSc_line_0b17c691" custom="structure {type:HeadingLine;}">
         <Coords points="1104,501 1104,341 1237,334 1299,334 1383,393 1472,272 1522,362 1592,372 1613,390 1634,376 1669,390 1714,369 1773,383 1832,351 1899,337 1916,351 1947,334 2028,365 2076,351 2125,365 2170,337 2240,393 2373,393 2383,470 2376,519 2331,501 2296,525 2237,532 2205,505 2163,501 2139,519 2090,505 2021,522 1916,508 1860,532 1798,529 1777,508 1686,505 1547,522 1501,512 1480,525 1411,512 1369,546 1338,525 1292,553 1108,557"/>
         <Baseline points="1108,505 2384,472"/>
         <TextEquiv>
@@ -298,7 +298,7 @@
       <Coords points="2922,223 2922,3778 5462,3778 5462,223"/>
       
       
-      <TextLine id="eSc_line_e3232b63" >
+      <TextLine id="eSc_line_e3232b63" custom="structure {type:HeadingLine;}">
         <Coords points="3732,515 3739,302 3896,313 3958,414 4027,316 4073,379 4136,390 4178,428 4362,428 4408,386 4463,393 4557,369 4624,404 4655,390 4679,407 4714,376 4739,397 4805,400 4815,525 4805,574 4599,574 4575,553 4425,564 4366,543 4307,574 4195,574 4136,536 4014,536 3972,560 3874,536 3735,536"/>
         <Baseline points="3732,515 4700,512 4815,525"/>
         <TextEquiv>

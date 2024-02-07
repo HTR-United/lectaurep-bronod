@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2024-02-07T15:33:07.948840+00:00</Created>
-        <LastChange>2024-02-07T15:33:07.948857+00:00</LastChange>
+	<Created>2024-02-07T15:55:04.516790+00:00</Created>
+        <LastChange>2024-02-07T15:55:04.516808+00:00</LastChange>
 
   </Metadata>
   <Page imageFilename="0023.jpg" imageWidth="5680" imageHeight="4180">
@@ -585,20 +585,6 @@
     </TextRegion>
     
 
-    
-    <TextRegion id="eSc_dummyblock_">
-    
-    
-      <TextLine id="eSc_line_15c87ca6" custom="structure {type:DefaultLine:Handwritten;}">
-        <Coords points="5655,45 5669,20 5662,195"/>
-        <Baseline points="5655,45 5676,45"/>
-        <TextEquiv>
-          <Unicode></Unicode>
-        </TextEquiv>
-      </TextLine>
-
-    
-    </TextRegion>
     
   </Page>
 </PcGts>
