@@ -2,9 +2,9 @@
 
 # Notaires de Paris - Bronod
 
-![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)  [![DOI](https://sandbox.zenodo.org/badge/431864099.svg)](https://sandbox.zenodo.org/badge/latestdoi/431864099)
+![CC BY 4.0](https://img.shields.io/badge/license-CC--BY-lightgrey)  
 
-
+[![DOI](https://zenodo.org/badge/431864099.svg)](https://zenodo.org/doi/10.5281/zenodo.10631355)
 
 <!-- updated by workflow -->
 ![Files Badges](badges/files.svg)  ![Regions Badges](badges/regions.svg)  ![Lines Badges](badges/lines.svg)  ![Chars Badges](badges/characters.svg)
