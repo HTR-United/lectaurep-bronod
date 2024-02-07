@@ -1,9 +1,33 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Lectaurep-Bronod, ground truth for Maitre Bronod's
+  documents (French XVIIIth century)
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Limon-Bonnet
-    given-names: Marie-Françoise
-title: "Lectaurep-Bronod, ground truth for Maitre Bronod's documents (French XVIIIth century)"
-version: 1.0.0
-doi: 10.5072/zenodo.977735 
-date-released: 2021-12-07
+  - given-names: Marie-Françoise
+    family-names: Limon-Bonnet
+    affiliation: Archives nationales
+  - given-names: Alix
+    family-names: Chagué
+    affiliation: Inria
+    orcid: 'https://orcid.org/0000-0002-0136-4434'
+  - given-names: Aurélia
+    family-names: Rostaing
+    affiliation: Archives nationales
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10631355
+url: 'https://lectaurep.hypotheses.org/'
+keywords:
+  - HTR
+  - ground-truth
+  - French
+  - handwritten
+license: CC-BY-4.0
+date-released: '2024-02-07'
