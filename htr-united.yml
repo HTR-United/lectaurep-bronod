@@ -8,7 +8,13 @@ authors:
 - name: Chagué
   roles:
   - support
+  - project-manager
+  - quality-control
   surname: Alix
+- name: Rostaing
+  roles:
+  - project-manager
+  surname: Aurélia
 characters:
   members:
   - e
