@@ -19,11 +19,10 @@ characters:
   members:
   - e
   - t
-  - /
   - a
-  - '1'
-  - c
+  - /
   - '0'
+  - c
   - n
   - r
   - m
@@ -32,17 +31,19 @@ characters:
   - s
   - o
   - g
-  - '2'
+  - '5'
   - '7'
+  - '1'
   - E
   - .
   - i
   - '-'
+  - '3'
   - '9'
-  - '5'
-  - '6'
+  - '2'
   - f
   - d
+  - '8'
   - <
   - l
   - '{'
@@ -54,10 +55,9 @@ characters:
   - U
   - x
   - '>'
-  - '4'
-  - '8'
-  - '3'
   - b
+  - '4'
+  - '6'
   mode: NFD
 citation-file-link: https://raw.githubusercontent.com/HTR-United/lectaurep-bronod/master/CITATION.cff
 description: "Ground truth for Maître Bronod’s registers, notary in Paris during the\
