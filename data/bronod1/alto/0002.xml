@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>0002.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10921" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT10920" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT10919" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10918" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10917" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10916" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT10915" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
+    <OtherTag ID="LT4294" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4293" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4292" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT4291" LABEL="DefaultLine:Print" DESCRIPTION="line type DefaultLine:Print"/><OtherTag ID="LT4290" LABEL="DefaultLine:Handwritten" DESCRIPTION="line type DefaultLine:Handwritten"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="5680"
+          HEIGHT="4180"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="5680"
+                  HEIGHT="4180">
+        
+        <TextBlock HPOS="3326"
+                   VPOS="1436"
+                   WIDTH="1808"
+                   HEIGHT="956"
+                   ID="eSc_textblock_e867bf26"
+                   TAGREFS="BT10920">
+          <Shape><Polygon POINTS="3326 1436 3340 2392 5134 2392 5134 1741 5134 1457"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_51e8c788"
+                    TAGREFS="LT4294"
+                    BASELINE="3482 1760 3486 1760 4884 1741" 
+                    HPOS="3477"
+                    VPOS="1518"
+                    WIDTH="1405"
+                    HEIGHT="317">
+            <Shape><Polygon POINTS="3481 1759 3481 1835 3651 1832 3655 1832 3714 1807 3930 1832 3937 1832 3941 1832 3944 1832 3996 1804 4327 1818 4331 1818 4463 1797 4516 1821 4519 1821 4523 1825 4641 1825 4641 1821 4645 1821 4652 1821 4735 1797 4875 1814 4882 1738 4875 1529 4742 1518 4739 1518 4735 1518 4662 1539 4613 1550 4550 1543 4376 1525 4373 1525 4369 1525 4366 1525 4314 1557 4275 1581 4244 1560 4212 1539 4209 1539 4205 1539 4021 1522 4017 1522 4014 1522 4010 1522 3958 1553 3784 1543 3780 1543 3777 1543 3773 1543 3711 1588 3693 1602 3477 1602 3481 1759"/></Shape>
+	    <String CONTENT="ANNÉE"
+                    HPOS="3477"
+                    VPOS="1518"
+                    WIDTH="1405"
+                    HEIGHT="317"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b6c1c81"
+                    TAGREFS="LT4294"
+                    BASELINE="3836 2251 3840 2251 4621 2244" 
+                    HPOS="3829"
+                    VPOS="2020"
+                    WIDTH="791"
+                    HEIGHT="299">
+            <Shape><Polygon POINTS="3833 2250 3833 2299 3927 2319 3930 2319 4087 2302 4118 2302 4617 2309 4620 2243 4610 2065 4526 2065 4523 2065 4495 2037 4495 2034 4491 2034 4488 2034 4408 2020 4404 2020 4233 2058 4146 2027 4143 2027 4139 2027 3920 2030 3916 2030 3829 2065 3833 2250"/></Shape>
+	    <String CONTENT="1742"
+                    HPOS="3829"
+                    VPOS="2020"
+                    WIDTH="791"
+                    HEIGHT="299"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5016"
+                   VPOS="79"
+                   WIDTH="340"
+                   HEIGHT="367"
+                   ID="eSc_textblock_aa77b689"
+                   TAGREFS="BT10919">
+          <Shape><Polygon POINTS="5016 79 5016 446 5356 439 5356 79"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
